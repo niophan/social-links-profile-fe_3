@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://github.com/niophan/social-links-profile-fe_3)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://niophan.github.io/social-links-profile-fe_3/)
 
 ## My process
 
